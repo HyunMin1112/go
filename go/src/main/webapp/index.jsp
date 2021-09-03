@@ -1,5 +1,4 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
-<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html>
 <html lang="ko">
  <head>
@@ -22,6 +21,8 @@
   		커밋(commit) : git(로컬저장소)에 파일을 추가하거나 변경내용을 저장하는 작업
   		푸쉬(push)   : github(원격저장소)에 파일을 추가하거나 변경내용을 저장하는 작업
   		풀(pull)		: github(원격저장소)에서 파일을 다운로드 하는 작업
+  		
+  		Ver-211q23123
   		</pre>
   	</div>
  </body> 
